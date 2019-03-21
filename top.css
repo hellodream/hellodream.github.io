@@ -1,6 +1,6 @@
 @charset "utf-8";
 .main-visual {
-  padding-top: 0px;
+  padding-top: 100px;
   padding-bottom: 50px;
   background-image: url("main.jpg");
   background-size: cover;
@@ -111,7 +111,7 @@ li {
   background-color: #009900;
   color: #fff;
   height: 120px;
-  padding: 0px;
+  padding: 20px;
 }
 
 .footer-logo {
@@ -122,4 +122,8 @@ li {
 .footer-list {
   float: right;
 }
+
+
+
+
 

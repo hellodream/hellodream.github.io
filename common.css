@@ -40,7 +40,7 @@
 }
 .header-right a:hover {
   background-color: #d8f9ae;
-  transition: background-color 0.1s;
+  transition: background-color 0.2s;
 }
 .footer {
   height: 120px;

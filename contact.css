@@ -75,3 +75,22 @@
   margin-bottom: 10px;
   text-align: left;
 }
+
+.main4 {
+  padding: 80px 0;
+  color: #5a5c5f;
+  text-align: center;
+}
+.main4 h6 {
+  margin-bottom: 25px;
+}
+.main4-image {
+  width: 450px;
+  margin-bottom: 25px;
+
+  border-radius: 5px;
+}
+.main3 h6 {
+  margin-bottom: 10px;
+  text-align: left;
+}

@@ -21,7 +21,7 @@
 .main {
   padding: 80px 0;
   color: #5a5c5f;
-  text-align: center;
+  text-align: left;
 }
 .main h2 {
   margin-bottom: 25px;
@@ -81,7 +81,7 @@
   color: #5a5c5f;
   text-align: center;
 }
-.main4 h6 {
+.main4 h2 {
   margin-bottom: 25px;
 }
 .main4-image {

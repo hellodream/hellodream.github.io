@@ -22,7 +22,7 @@
 .main-image {
   width: 450px;
   margin-bottom: 25px;
-  float: left;
+  float: center;
 
   border-radius: 5px;
 }

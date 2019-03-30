@@ -65,7 +65,7 @@
 .main4 {
   padding: 10px 0;
   color: #A8A8A8;
-  text-align: left;
+  text-align: center;
   background-color:#4F4F4F;
   font-size: 8px;
 }
@@ -73,5 +73,5 @@
 
 .main4 h6 {
   margin-bottom: 0px;
-  text-align: left;
+  text-align: center;
 }
